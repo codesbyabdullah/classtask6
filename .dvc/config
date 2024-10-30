@@ -1,0 +1,6 @@
+[core]
+    remote = local_remote
+['remote "gdrive"']
+    url = gdrive://1hIqKrz82GTNHugbHKnvB_0cDe8GnjCDw
+['remote "local_remote"']
+    url = C:\Users\PMYLS\Desktop\DVC_Storage
